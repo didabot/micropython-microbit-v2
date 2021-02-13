@@ -74,7 +74,9 @@ SRC_C += \
 	microbit_speaker.c \
 	microbit_spi.c \
 	microbit_uart.c \
+	modantigravity.c \
 	modaudio.c \
+	modlove.c \
 	modmachine.c \
 	modmicrobit.c \
 	modmusic.c \
@@ -82,6 +84,7 @@ SRC_C += \
 	modos.c \
 	modradio.c \
 	modspeech.c \
+	modthis.c \
 	modutime.c \
 	mphalport.c \
 
